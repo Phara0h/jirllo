@@ -1,0 +1,14 @@
+{
+  "trello":
+  {
+    "key": "",
+    "token": ""
+  },
+  "jira":
+  {
+    "host": "",
+    "port": "",
+    "user": "",
+    "password": ""
+  }
+}
